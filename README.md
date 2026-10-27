@@ -33,7 +33,7 @@ In this course I hope to learn:
 ## Assignment : [Assignment 3&4: Critique by Design ]
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+Coming Soon!
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
