@@ -2,7 +2,7 @@
 
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This is my public portfolio for Telling Stories with Data at CMU!  I will be updating it as I learn new things in due course. 
 
 # About me
 <p align="center">
@@ -18,8 +18,7 @@ In this course I hope to learn:
 - Enhance my design sense with regards to data visualization.
 - Concise presentation.
 - I hope to unlearn some of the traditional ways of displaying data.
-- I wish to learn from the diverse group of people in the class.
-- I wish to be a Product Managers who's slide decks are not mundane!
+- I hope to be a Product Managers who's slide decks are not mundane!
 
 
 
