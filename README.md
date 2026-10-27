@@ -11,7 +11,7 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hi! This is Ashwin Raj, I am a first year masters student at Carnegie Mellon University. I am majoring in Information Systems Management under Business Intelligence and Data Analytics track. I worked with PwC (PricewaterhouseCoopers) for a couple of years as an Associate Consultant.
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
