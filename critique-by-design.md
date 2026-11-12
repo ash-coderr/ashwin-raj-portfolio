@@ -16,6 +16,7 @@ Here is the original visualization I chose for the redesign. -- https://makeover
 ## Step two: the critique
 The original visualization was effective at grabbing attention and challenging common assumptions about the deadliest animals. The use of animal icons and large blocks made it visually interesting. However, the combination of a treemap and bar chart felt inconsistent and somewhat confusing. Mosquitoes and humans dominated the visualization, while smaller animals were harder to compare. The animal icons also did not consistently represent the differences in death counts. Overall, the visualization communicated the main message well but could have been clearer, more balanced, and easier for the general public to understand.
 ## Step three: Sketch a solution
+<img width="940" height="627" alt="image" src="https://github.com/user-attachments/assets/ba42f8f7-adcc-4da1-82a9-15182e5a9ca7" />
 
 ## Step four: Test the solution
 
