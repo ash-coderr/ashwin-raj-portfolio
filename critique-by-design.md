@@ -59,7 +59,7 @@ The feedback on my initial treemap sketch helped me identify several areas for i
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1794457141878');                   
   var vizElement = divElement.getElementsByTagName('object')[0];                    
-  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='927px';} 
+  if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1300px';vizElement.style.height='927px';} 
   else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1300px';vizElement.style.height='927px';} 
   else { vizElement.style.width='100%';vizElement.style.height='727px';}                    
   var scriptElement = document.createElement('script');                   
