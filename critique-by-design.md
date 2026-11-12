@@ -9,8 +9,9 @@ _You can include screenshots, sketches or other artifacts with your narrative to
 
 ## Step one: the visualization
 Here is the original visualization I chose for the redesign.
+
 https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
-<img width="3093" height="2484" alt="image" src="https://github.com/user-attachments/assets/7a866968-092a-4f3f-9a86-01f39671c8eb" />
+<img width="3093" height="1000" alt="image" src="https://github.com/user-attachments/assets/7a866968-092a-4f3f-9a86-01f39671c8eb" />
 
 
 ## Step two: the critique
