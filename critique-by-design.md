@@ -1,11 +1,7 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Critique by Design
-Text here...
-
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+The task was to select an existing data visualization and improve it by following a five-step design process: selecting a visualization, critiquing its strengths and weaknesses, sketching a possible redesign, gathering feedback, and building the final solution. The goal was to apply good data visualization principles to make the information clearer, more engaging, and easier for the audience to understand. This process also helped us understand how feedback and experimentation can improve a design.
 
 ## Step one: the visualization
 Here is the original visualization I chose for the redesign. -- https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
