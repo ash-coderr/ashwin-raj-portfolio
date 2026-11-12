@@ -69,8 +69,6 @@ The feedback on my initial treemap sketch helped me identify several areas for i
 
 ## References
 
-## References
-
 1. Berinato, S. (2019). *Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations*. Harvard Business Review Press.
    - Chapter 3: Choosing Chart Types
    - Chapter 4: Practicing Persuasion
