@@ -32,16 +32,6 @@ Questions to ask (modify these for your own interviews):
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
-
 ## Interview Feedback
 
 | Question | Interview 1 – Public Policy & Management (Data Analytics Track) | Interview 2 – MISM (BIDA) | Interview 3 – Public Policy & Management |
@@ -78,6 +68,20 @@ The feedback on my initial treemap sketch helped me identify several areas for i
 </script>
 
 ## References
+
+## References
+
+1. Berinato, S. (2019). *Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations*. Harvard Business Review Press.
+   - Chapter 3: Choosing Chart Types
+   - Chapter 4: Practicing Persuasion
+   - https://store.hbr.org/product/good-charts-workbook-tips-tools-and-exercises-for-making-better-data-visualizations/10209
+
+2. Peck, E. (2019, May 20). *Data Is Personal: What We Learned from 42 Interviews in Rural America*. Multiple Views: Visualization Research Explained, Medium.
+   - https://medium.com/multiple-views-visualization-research-explained/data-is-personal-what-we-learned-from-42-interviews-in-rural-america-93539f25836d
+
+3. Ritchie, H., & Spooner, F. (2026, March 9). *What Are the World's Deadliest Animals, and Can We Protect Ourselves Against Them?* Our World in Data.
+   - https://ourworldindata.org/deadliest-animals
+
 
 ## AI acknowledgements
 I used ChatGPT to assist with brainstorming ideas for my visualization redesign, refining my written explanations, and troubleshooting certain steps in Tableau. AI was also used to help develop the initial treemap sketch and organize interview feedback. I reviewed and corrected the suggestions based on the dataset and feedback I received. The final design decisions, Tableau implementation, and evaluation of the visualization were completed by me.
