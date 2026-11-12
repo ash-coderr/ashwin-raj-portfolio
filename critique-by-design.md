@@ -8,10 +8,8 @@ _For each step below, you should document your progress as you move forward.  In
 _You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
 
 ## Step one: the visualization
-Here is the original visualization I chose for the redesign.
-
-https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
-<img width="3093" height="1000" alt="image" src="https://github.com/user-attachments/assets/7a866968-092a-4f3f-9a86-01f39671c8eb" />
+Here is the original visualization I chose for the redesign. -- https://makeovermonday.vercel.app/dataset/what-are-the-world-s-deadliest-animals
+<img width="2093" height="1500" alt="image" src="https://github.com/user-attachments/assets/7a866968-092a-4f3f-9a86-01f39671c8eb" />
 
 
 ## Step two: the critique
