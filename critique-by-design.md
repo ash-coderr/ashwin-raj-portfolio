@@ -41,9 +41,26 @@ _Don't identify or share personally identifiable information (PII) about the peo
 |          |             |             |
 |          |             |             |
 
+
+## Interview Feedback
+
+| Question | Interview 1 – Public Policy & Management (Data Analytics Track) | Interview 2 – MISM (BIDA) | Interview 3 – Public Policy & Management |
+|----------|-------------|-------------|-------------|
+| **What worked?** | The treemap clearly highlighted mosquitoes and humans as the largest contributors to human deaths. | The rectangle sizes made it easy to understand the differences in death counts. | The visualization was engaging and helped communicate important public health information. |
+| **What didn't work?** | The animal images were inconsistent, as only mosquitoes and humans had pictures. | Smaller animals were difficult to see and compare because the larger categories dominated the space. | The title was confusing, some numbers needed correction, and the colors could have been lighter for better readability. |
+| **What questions came up?** | Could images be added for all animals without making the visualization cluttered? | How could viewers explore smaller animals without changing the accuracy of the data? | Would viewers understand that the numbers represented human deaths, including deaths caused by diseases? |
+| **What new inspiration arose?** | Simplify the layout and remove unnecessary visual elements. | Add interactive filters so users could exclude larger categories and explore smaller death counts separately. | Improve the title, use shades of red, and make the visualization easier to understand. |
+
+## How Feedback Influenced My Final Redesign
+
+The feedback helped me identify issues with my initial treemap sketch, including the confusing title, inconsistent animal images, color choices, and incorrect data values. One of the biggest challenges was making smaller animals visible because mosquitoes and humans dominated the visualization. Based on this feedback, I redesigned the visualization in Tableau using different shades of red and improved the title and labels. I also added interactive filters that allowed users to exclude the largest categories and deep dive into animals with smaller death counts separately. This made the final visualization cleaner, more interactive, and easier to explore.
+
+
 Synthesis: 
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+
+I checked and corrected the numbers, revised the title to mention human deaths, and built an interactive treemap in Tableau. I used lighter-to-darker shades of red instead of many unrelated colors. Most importantly, I added **interactive filters through the Explore Animals dropdown**. Viewers could start with all 21 animals, filter out mosquitoes and humans, or deep-dive separately into categories with fewer than 10,000 estimated deaths per year. This made the smaller numbers easier to investigate without artificially enlarging their rectangles; the treemap recalculated areas and colors within each selected view.
+
 
 ## Step five: build the solution
 
@@ -61,8 +78,7 @@ The feedback on my initial treemap sketch helped me identify several areas for i
 </script>
 
 ## References
-_List any references you used here._
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+I used ChatGPT to assist with brainstorming ideas for my visualization redesign, refining my written explanations, and troubleshooting certain steps in Tableau. AI was also used to help develop the initial treemap sketch and organize interview feedback. I reviewed and corrected the suggestions based on the dataset and feedback I received. The final design decisions, Tableau implementation, and evaluation of the visualization were completed by me.
 
