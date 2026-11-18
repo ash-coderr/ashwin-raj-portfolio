@@ -1,0 +1,9 @@
+assumption,value,why
+Visit length,14 days,Typical two-week trip home; user-adjustable in calculator
+Visits per year (baseline),1,DHS FY2022: about 1.4 U.S. entries per Indian H-1B worker per year (includes non-home trips)
+Visit frequency scenarios,"every 1, 2, 3, 5, 6 years",Long gaps reported when visa stamps expire; to be supported by survey
+Meals per day,3,Simple convention
+Waking hours per day,16,07:00-23:00
+Daily call length (call-math example),30 minutes,30 min x 365 days = about 182 hours a year
+Weeks with parents before leaving home,"about 1,144",Living at home to age 22: 22 x 52 weeks
+Hook example,"Indian mother age 60: 19.2 years left -> 19 yearly visits x 2 weeks = about 38 weeks",Published life expectancy at 60 (SRS 2018) with the baseline visit assumptions

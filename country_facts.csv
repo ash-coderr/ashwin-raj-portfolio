@@ -1,0 +1,3 @@
+country,festival,festival_month,le60_female_years,le60_male_years,le_reference_year,le_source,h1b_entries_per_worker_fy2022,tz_offset_vs_eastern_nov,weekday_call_window_hrs_nov
+India,Diwali,Oct/Nov,19.2,17.4,2018,"Sample Registration System life tables, via Genus (2025) 'Sex disparities in health of older adults in India'",1.4,+10.5,4.5
+China,Lunar New Year,Jan/Feb,23.2,20.2,,"BMC Geriatrics (2025) 'Population-based estimates of healthy working life expectancy in China'",1.7,+13.0,7.0

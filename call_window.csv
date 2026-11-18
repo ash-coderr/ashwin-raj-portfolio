@@ -1,0 +1,5 @@
+country,season,weekday_call_window_hrs,weekend_call_window_hrs
+India,nov,4.5,8.0
+India,summer,3.5,8.0
+China,nov,7.0,8.0
+China,summer,6.0,8.0
