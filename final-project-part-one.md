@@ -51,7 +51,7 @@ I will present live from the Shorthand page, not slides: hook question ("When di
 
 The sketch below combines the story arc with the planned visual for each beat: the top shows the emotional shape of the story, and each card underneath is one scrolling section of the Shorthand story, with its header, the planned chart, and its data source.
 
-![Story arc and planned visuals](story_arc_with_visuals.png)
+![Story arc and planned visuals](story_arc_sketch.png)
 
 **Hero screen (section 1):** a static grid of the next 19 years in weeks, with only the weeks home colored orange. Below it, the same time is restated in units that feel more personal: about 800 meals and 19 Diwalis (if every visit is timed for the festival). The assumptions (a 60-year-old mother in India, one two-week visit a year) are printed under the chart.
 
