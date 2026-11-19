@@ -27,7 +27,7 @@ For international students who stay to work in the U.S., visits home are rare an
 
 ### Story arc
 
-![Story arc](images/story_arc.svg)
+The story follows the arc shown in the sketch in section 3: it starts with a personal hook, drops through the data on distance, visas and time zones to a low point, then rises to what readers can do.
 
 | Beat | Section header | What the reader learns | Evidence |
 |---|---|---|---|
@@ -41,25 +41,25 @@ For international students who stay to work in the U.S., visits home are rare an
 
 ### Design choices (Good Charts, Chapter 6)
 
-Every chart is a manipulation; the question is whether it persuades or deceives. I use persuasion techniques on purpose: the hook shows the *whole* next 20 years as a grid of weeks and colors only the weeks spent with parents (isolation with the full denominator visible), and compares them to the weeks already spent together (an added reference point). To stay on the honest side of the line, I use remaining life expectancy at the parent's age (not life expectancy at birth), print every assumption next to the visuals, and let readers change the assumptions in the calculator.
+Every chart is a manipulation; the question is whether it persuades or deceives. I use persuasion techniques on purpose: the hook shows the *whole* next 19 years as a grid of weeks and colors only the weeks spent with parents (isolation with the full denominator visible), and compares them to the weeks already spent together (an added reference point). To stay on the honest side of the line, I use remaining life expectancy at the parent's age (not life expectancy at birth), and print every assumption directly under each visual.
 
 ### One-minute presentation plan
 
-I will present live from the Shorthand page, not slides: hook question ("When did you last eat a meal your mom cooked?") → hero number from the calculator → the call-window timeline → the Pew "dads want more" chart → call to action.
+I will present live from the Shorthand page, not slides: hook question ("When did you last eat a meal your mom cooked?") → the weeks grid ("about 38 weeks left") → the call-window timeline → the Pew "dads want more" chart → call to action.
 
 ## 3. Initial sketches
 
 The sketch below combines the story arc with the planned visual for each beat: the top shows the emotional shape of the story, and each card underneath is one scrolling section of the Shorthand story, with its header, the planned chart, and its data source.
 
-![Story arc with planned visuals (sketch)](images/story_arc_sketch.png)
+![Story arc and planned visuals](story_arc_with_visuals.png)
 
-**Hero screen (section 1):** an interactive calculator. Readers pick their country, their parent's age and how often they can visit (every 1 to 6 years), and choose a measure: weeks, meals, or festivals at home (Diwali for India, Lunar New Year for China). Orange marks show what they get; gray marks show what they lose compared with visiting every year.
+**Hero screen (section 1):** a static grid of the next 19 years in weeks, with only the weeks home colored orange. Below it, the same time is restated in units that feel more personal: about 800 meals and 19 Diwalis (if every visit is timed for the festival). The assumptions (a 60-year-old mother in India, one two-week visit a year) are printed under the chart.
 
 ## 4. The data
 
 ### Primary sources
 
-1. **Remaining life expectancy at age 60, by sex.** Used to estimate how many years a parent has left. Current values: India, women 19.2 and men 17.4 years, from the national Sample Registration System life tables as reported in [Genus (2025)](https://link.springer.com/article/10.1186/s41118-025-00247-2); China, women 23.2 and men 20.2 years, from [BMC Geriatrics (2025)](https://link.springer.com/article/10.1186/s12877-025-06262-4). For the final project I will replace both with the World Health Organization's [Life expectancy at age 60](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy-at-age-60-(years)) indicator so the two countries come from one consistent method.
+1. **Remaining life expectancy at age 60, by sex.** Used to estimate how many years a parent has left. Current values: India, women 19.2 and men 17.4 years, from the national Sample Registration System life tables as reported in [Genus (2025)](https://link.springer.com/article/10.1186/s41118-025-00247-2); China, women 23.2 and men 20.2 years, from [BMC Geriatrics (2025)](https://link.springer.com/article/10.1186/s12877-025-06262-4). For the final project I will replace both with the World Health Organization's [Life expectancy (at age 60, by sex)](https://www.who.int/data/gho/data/indicators/indicator-details/GHO/life-expectancy) indicator so the two countries come from one consistent method.
 2. **H-1B entries per worker, by country.** U.S. Department of Homeland Security, Office of Homeland Security Statistics, *Nonimmigrant Admissions and Estimated Nonimmigrant Individuals* fact sheets for [FY2022](https://www.dhs.gov/sites/default/files/2024-04/24_0416_ohss_nonimmigrant-admissions-and-estimated-nonimmigrant-individuals-2022.pdf) and [FY2016](https://ohss.dhs.gov/sites/default/files/2023-12/Nonimmigrant%2520Admissions%2520and%2520Estimated%2520Nonimmigrant%2520Individuals%2520Fact%2520Sheet%25202016_0.pdf). Used as a proxy for how often workers travel. ([fact sheet index](https://ohss.dhs.gov/topics/immigration/nonimmigrant/nonimmigrant-fact-sheet))
 3. **Visa appointment wait times.** U.S. Department of State, [Global Visa Wait Times](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/global-visa-wait-times.html), snapshot of October 21, 2026, petition-based (H, L, O, P, Q) category. The consulate chart focuses on India's five posts, since India sends the most students and has the widest spread of waits.
 4. **Parent–child contact.** Pew Research Center, [Young adults' relationship with their parents](https://www.pewresearch.org/social-trends/2024/01/25/young-adults-relationship-with-their-parents/) (Jan. 2024) and [short read on fathers](https://www.pewresearch.org/short-reads/2024/03/21/among-parents-with-young-adult-children-some-dads-feel-less-connected-to-their-kids-than-moms-do/) (Mar. 2024).
@@ -67,10 +67,11 @@ The sketch below combines the story arc with the planned visual for each beat: t
 
 ### How I will use the data
 
-The life-expectancy, visit-frequency and visit-length values combine in one small country table to power the calculator (weeks, meals and festivals left). The DHS, State Department and Pew data each drive one chart on their own, so they do not need to be joined. Time-zone overlap is calculated from standard UTC offsets with a short script, so anyone can check it. I limit the first version to India and China because DHS reports entries per worker only for the largest H-1B countries; Canada appears in one chart as a gray reference point because it needs no visa stamp.
+The life-expectancy, visit-frequency and visit-length values combine in one small country table to produce the hook numbers (weeks, meals and festivals left). The DHS, State Department and Pew data each drive one chart on their own, so they do not need to be joined. Time-zone overlap is calculated from standard UTC offsets with a short script, so anyone can check it. I limit the first version to India and China because DHS reports entries per worker only for the largest H-1B countries; Canada appears in one chart as a gray reference point because it needs no visa stamp.
 
 ### Limitations
 
+- **Life expectancy is an average, not a prediction.** I use remaining life expectancy at age 60 (not life expectancy at birth, which is pulled down by deaths at young ages and would understate a 60-year-old parent's remaining years). It is based on current death rates and describes the typical case; health, income and region shift it a lot for any one person.
 - **Entries are not trips home.** DHS counts every entry into the U.S., including business trips and first arrivals, so 1.4 a year is an upper bound on trips home. Workers who did not travel that year are not counted at all.
 - **Both DHS years predate the 2025–26 visa changes.** I treat them as a "before" baseline and the 2026 wait-time snapshot as "now."
 - **Wait times are predictions** and change monthly; they do not capture appointments that were cancelled or rescheduled.
@@ -78,33 +79,35 @@ The life-expectancy, visit-frequency and visit-length values combine in one smal
 
 ### Data files (in this repository)
 
+These files were compiled by hand from the sources listed above (the State Department and DHS publish their figures as web pages or PDFs, not downloadable datasets). `call_window.csv` is generated by `call_window.py`, and `assumptions.csv` records the modeling assumptions.
+
 | File | Contents |
 |---|---|
-| [`data/country_facts.csv`](data/country_facts.csv) | One row per country: festival, life expectancy at 60 by sex (with source), entries per worker, time-zone offset, call window |
-| [`data/dhs_h1b_entries_per_worker.csv`](data/dhs_h1b_entries_per_worker.csv) | DHS FY2016 and FY2022 H-1B entries per worker for India, China, Canada, Mexico |
-| [`data/visa_wait_times_india_2026-10-21.csv`](data/visa_wait_times_india_2026-10-21.csv) | Predicted months to next petition-based appointment, five Indian consulates |
-| [`data/pew_parent_contact.csv`](data/pew_parent_contact.csv) | Pew contact-frequency and "less than I'd like" percentages |
-| [`data/call_window.csv`](data/call_window.csv) | Output of the time-zone script |
-| [`data/assumptions.csv`](data/assumptions.csv) | Every assumption used in the calculations |
-| [`scripts/call_window.py`](scripts/call_window.py) | Reproducible time-zone overlap calculation |
+| [`country_facts.csv`](country_facts.csv) | One row per country: festival, life expectancy at 60 by sex (with source), entries per worker, time-zone offset, call window |
+| [`dhs_h1b_entries_per_worker.csv`](dhs_h1b_entries_per_worker.csv) | DHS FY2016 and FY2022 H-1B entries per worker for India, China, Canada, Mexico |
+| [`visa_wait_times_india_2026-10-21.csv`](visa_wait_times_india_2026-10-21.csv) | Predicted months to next petition-based appointment, five Indian consulates |
+| [`pew_parent_contact.csv`](pew_parent_contact.csv) | Pew contact-frequency and "less than I'd like" percentages |
+| [`call_window.csv`](call_window.csv) | Output of the time-zone script |
+| [`assumptions.csv`](assumptions.csv) | Every assumption used in the calculations |
+| [`call_window.py`](call_window.py) | Reproducible time-zone overlap calculation |
 
 **Next steps for Part II:** standardize life expectancy on the WHO indicator, archive monthly snapshots of the State Department wait-time page to show change over time, and (with instructor approval) run the short survey of international students.
 
 ## 5. Method and medium
 
-The final story will be built in **Shorthand** as a scrolling, section-by-section narrative following the story arc above. Charts and the hero calculator will be built in **Tableau Public** and embedded in Shorthand. The calculator uses Tableau parameters (country, parent's age, visit frequency, measure) and calculated fields on the country table; the weeks grid is a unit chart. All data, the time-zone script and the sketches are stored in this GitHub repository. Images will come only from Creative Commons, public-domain or licensed sources, following the CMU Library guide.
+The final story will be built in **Shorthand** as a scrolling, section-by-section narrative following the story arc above. Charts will be built in **Tableau Public** and embedded in Shorthand; the weeks grid is a unit chart, and the hook numbers (weeks, meals, festivals) are calculated fields on the country table. All data, the time-zone script and the sketches are stored in this GitHub repository. Images will come only from Creative Commons, public-domain or licensed sources, following the CMU Library guide.
 
 ## References
 
 - Berinato, S. (2023). *Good charts: The HBR guide to making smarter, more persuasive data visualizations* (updated and expanded ed.). Harvard Business Review Press.
 - Institute of International Education. (2026). *Open Doors 2026 Report on International Educational Exchange.*
 - Pew Research Center. (2024, January 25). *Young adults' relationship with their parents.*
-- Pew Research Center. (2024, March 21). *Among parents with young adult children, some dads feel less connected to their kids than moms do.*
+- Schaeffer, K. (2024, March 21). *Among parents with young adult children, some dads feel less connected to their kids than moms do.* Pew Research Center.
 - U.S. Department of Homeland Security, Office of Homeland Security Statistics. (2024). *Nonimmigrant admissions and estimated nonimmigrant individuals: 2022.*
 - U.S. Department of Homeland Security, Office of Immigration Statistics. (2018). *Nonimmigrant admissions and estimated nonimmigrant individuals: 2016.*
 - U.S. Department of State. (2026, October 21). *Global visa wait times.*
-- *Sex disparities in health of older adults in India: assessing the morbidity-mortality paradox through disability-free life expectancy.* (2025). *Genus.*
-- *Population-based estimates of healthy working life expectancy in China.* (2025). *BMC Geriatrics.*
-- World Health Organization. *Global Health Observatory: Life expectancy at age 60 (years).*
+- Karun, S., McDougal, L., & Singh, A. (2025). Sex disparities in health of older adults in India: Assessing the morbidity-mortality paradox through disability-free life expectancy. *Genus, 81*, 11.
+- Huang, G., Pan, Y., & Luo, Y. (2025). Population-based estimates of healthy working life expectancy in China. *BMC Geriatrics, 25*, 700.
+- World Health Organization. *Global Health Observatory: Life expectancy* (at birth and at age 60, by sex).
 
-**AI acknowledgement:** I used Claude (Anthropic) to help develop this proposal: to brainstorm and refine the story angle and call to action, to locate public data sources, to draft sections of this page, to write the time-zone script, and to produce the digital storyboard and story-arc sketches. I chose the topic, made the final framing decisions, checked the figures against the original sources, and edited the text.
+**AI acknowledgement:** I used Claude (Anthropic) to help develop this proposal: to brainstorm and refine the story angle and call to action, to locate public data sources, to compile the data files, to draft sections of this page, to write the time-zone script, and to produce the digital storyboard and story-arc sketches. I chose the topic, made the final framing decisions, checked the figures against the original sources, and edited the text.
