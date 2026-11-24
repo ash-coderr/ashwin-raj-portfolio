@@ -73,6 +73,7 @@ A graduate student from India scrolls through the story on her phone between cla
 
 ### Time together
 
+<img width="1800" height="1080" alt="window_light" src="https://github.com/user-attachments/assets/7451e24b-1f9a-4829-95ee-6c1a951db49c" />
 
 
 ### Chart elements
