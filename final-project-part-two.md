@@ -45,10 +45,14 @@ The story moves from a personal opening, through the data on why visits are rare
 
 ### Shorthand draft
 
-![Shorthand draft: title section](shorthand-1-title.png)
-![Shorthand draft: Playing on Fast Forward](shorthand-2-fast-forward.png)
-![Shorthand draft: Why Only One Visit a Year?](shorthand-3-visits.png)
-![Shorthand draft: Ways to Stay Close](shorthand-4-cta.png)
+<img width="1568" height="617" alt="image" src="https://github.com/user-attachments/assets/b0914393-0daf-40f4-b330-b1c90d8bbadc" />
+
+<img width="1280" height="891" alt="image" src="https://github.com/user-attachments/assets/09188374-6f10-4335-8879-9320526b403b" />
+
+<img width="1732" height="758" alt="image" src="https://github.com/user-attachments/assets/8abc86e8-e4ad-4e35-bf93-97818737c5d5" />
+
+<img width="1776" height="911" alt="image" src="https://github.com/user-attachments/assets/f161cc6d-e272-4e58-9323-2de5b6417b57" />
+
 
 ### Scenario of use
 
