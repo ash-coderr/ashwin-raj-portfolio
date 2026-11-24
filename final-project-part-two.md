@@ -58,19 +58,22 @@ A graduate student from India scrolls through the story on her phone between cla
 
 ### Music-player seek bar
 
-![Seek bar: time with Mom](fun_1_seek_bar.png)
+<img width="1800" height="1120" alt="fun_1_seek_bar" src="https://github.com/user-attachments/assets/f6a5830c-722d-429a-b6d6-a9d1e3ff9944" />
+
 
 ### Planes
 
-![Planes: about one trip a year](tall_planes_light.png)
+<img width="1800" height="880" alt="fun_2_planes" src="https://github.com/user-attachments/assets/ad64ce12-ddb1-4859-b810-8f91caa80fc1" />
+
 
 ### Calendar pages
 
-![Calendar pages: your appointment is months away](tall_calendar_light.png)
+<img width="1800" height="1040" alt="fun_3_calendar_pages" src="https://github.com/user-attachments/assets/795993f7-b644-4103-ba2e-f86337b679c1" />
+
 
 ### Time together
 
-![Time together: 4.5 hours a day](window_light.png)
+
 
 ### Chart elements
 
