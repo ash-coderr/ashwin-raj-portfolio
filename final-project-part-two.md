@@ -95,7 +95,7 @@ A graduate student from India scrolls through the story on her phone between cla
 
 ### Research goal
 
-Find out whether readers can follow the story and read the charts without help, whether the story leaves them feeling hopeful rather than anxious, and whether the calls to action are things they would actually do.
+Find out what works and what doesn't in the draft story, what questions readers have while reading it, and what new ideas they bring, so I can improve the story in Part III.
 
 ### a. Target audience
 
@@ -104,92 +104,74 @@ Find out whether readers can follow the story and read the charts without help, 
 
 ### b. Research questions
 
-1. **Clarity:** Can readers follow the story and read each chart without explanation?
-2. **Emotion:** Does the story feel hopeful by the end, or does any part make readers anxious?
-3. **Trust:** Do readers believe the numbers and understand the assumptions?
-4. **Action:** Which calls to action would readers actually try?
+The interviews are built around four questions:
+
+1. **What worked?** Which parts of the story and charts were clear, engaging or memorable?
+2. **What didn't work?** Which parts were confusing, slow or unnecessary?
+3. **What questions came up?** What did readers wonder about or want explained while reading?
+4. **What new inspirations arose?** What ideas did readers suggest for the story or the charts?
 
 ### c. Recruiting participants
 
-I interviewed at least three people, chosen to reflect the audience rather than only close friends:
+I am interviewing at least three people, chosen to reflect the audience rather than only close friends:
 
 - At least two international students or workers from the target audience, ideally in different situations (for example, one student and one working professional)
 - One person outside the primary audience, to check whether the story makes sense without personal context
 
-Participants were recruited through classmates and personal networks. No names or identifying details are recorded. Each interview took about 15 minutes using the Shorthand draft.
+Participants are recruited through classmates and personal networks. No names or identifying details are recorded. Each interview takes about 10–15 minutes using the Shorthand draft.
 
 ### d. Interview script
 
 **Introduction**
 > "Thanks for helping. I'm testing a draft data story for a class project. There are no right or wrong answers. I'm testing the story, not you. It's about time with family, so feel free to skip any question. I won't record your name."
 
-**Warm-up**
-1. Where does your family live, roughly, and how often do you see them?
-2. In the last three years, how many times have you gone home?
+**Walk-through:** the participant scrolls through the full draft and thinks aloud while I take notes.
 
-**First impression** (show only the title and the first section for about 10 seconds)
-3. What is this story about?
-4. How does this opening make you feel?
-
-**Walk-through** (participant scrolls through the full draft and thinks aloud)
-5. Was there any chart you had to read twice? Which one, and why?
-6. In your own words, what does the "Our Time Zone" chart show?
-7. Did any number surprise you, or seem hard to believe?
-8. Did any part of the story feel stressful? Where?
-9. How did you feel at the end, compared with the beginning?
-
-**Call to action**
-10. Of the three ideas in "Ways to Stay Close," which would you actually try this week? Which would you skip, and why?
-
-**Wrap-up**
-11. If you could change one thing about the story, what would it be?
+**Questions**
+1. What worked for you in this story?
+2. What didn't work?
+3. What questions came up while you were reading?
+4. What new ideas or inspirations does it give you, for the story or the charts?
 
 ## 5. Findings
 
-*Participants are described generally, with no names or identifying details.*
+*Participants are described generally, with no names or identifying details. Interviews are ongoing; this section will be updated as more are completed.*
 
 ### Participants
 
 | ID | Description |
 |---|---|
-| P1 | [e.g., graduate student from India, 20s, parents in India] |
-| P2 | [e.g., working professional from India on H-1B, 20s] |
-| P3 | [e.g., student in their 20s whose parents live in another state] |
+| P1 | International student in a Master of Information Systems Management program, 20s |
+| P2 | International student in a Master of Arts Management program, 20s |
 
-### Findings by research question
+### Findings by question
 
-| Research question | P1 | P2 | P3 | Consistent or conflicting? |
-|---|---|---|---|---|
-| Clarity | | | | |
-| Emotion | | | | |
-| Trust | | | | |
-| Action | | | | |
+**What worked?**
+- The topic itself: participants said it was something they hadn't thought about before.
+- The animations in the Shorthand story.
+- The story overall: participants found it an interesting story to tell.
 
-### Key quotes
+**What didn't work?**
+- The music-player seek bar was not instantly understandable.
+- The text next to the flight chart was unnecessary. The planes alone were enough to understand the point.
 
-- P1: "[quote]"
-- P2: "[quote]"
-- P3: "[quote]"
+**What questions came up?**
+- No specific questions were raised beyond the confusion about how to read the seek bar.
 
-### Where participants agreed
+**What new inspirations arose?**
+- Bring Canada back into the flight chart as a comparison, using a car symbol instead of planes, to show how much easier it is to get home when home is a drive away.
 
-[summary]
+### Patterns so far
 
-### Where participants disagreed
-
-[summary]
-
-### How often participants go home
-
-[Answers to "In the last three years, how many times have you gone home?" This adds first-hand data to the story's "one visit a year" assumption.]
+Both participants are international students in their 20s, part of the story's primary audience. The topic and the animations landed well: participants hadn't thought about this before and found it an interesting story, so the core idea and the Shorthand format are worth keeping. The improvements point in one direction: the visuals should explain themselves with less text, and the most important chart, the seek bar, needs to be readable at first glance.
 
 ## 6. Changes planned for Part III
 
 | Finding | Planned change | Reason |
 |---|---|---|
-| [finding] | [change] | [what you learned] |
-| | | |
-| | | |
+| The seek bar is not instantly understandable | Add a short line above it explaining how to read it (for example, "Each bar is every week I'll spend with my mom; orange is what's still ahead"), and test the revised version with the next participants | The hook is the most important chart, so readers need to get it within seconds |
+| The text beside the flight chart is unnecessary | Remove the supporting text and let the planes carry the message, keeping only the title and source | Less text makes the chart faster to read |
+| Suggestion to include Canada with a car symbol | Add Canada back as a comparison row, using car icons (about 3.9 entries a year for Canadian H-1B workers, DHS FY2022) | A car makes the contrast instant: Canadians can drive home, while workers from India need a long flight and often a visa appointment |
 
 ## Sources
 
