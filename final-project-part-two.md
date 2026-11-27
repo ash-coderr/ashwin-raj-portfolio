@@ -135,7 +135,7 @@ Participants are recruited through classmates and personal networks. No names or
 
 ## 5. Findings
 
-*Participants are described generally, with no names or identifying details. Interviews are ongoing; this section will be updated as more are completed.*
+*Participants are described generally, with no names or identifying details. Three interviews were completed.*
 
 ### Participants
 
@@ -143,6 +143,7 @@ Participants are recruited through classmates and personal networks. No names or
 |---|---|
 | P1 | International student in a Master of Information Systems Management program, 20s |
 | P2 | International student in a Master of Arts Management program, 20s |
+| P3 | Undergraduate student, 20 |
 
 ### Findings by question
 
@@ -150,29 +151,36 @@ Participants are recruited through classmates and personal networks. No names or
 - The topic itself: participants said it was something they hadn't thought about before.
 - The animations in the Shorthand story.
 - The story overall: participants found it an interesting story to tell.
+- The "Space Between Us" animation, which P3 felt conveys the story accurately on an emotional level.
 
 **What didn't work?**
 - The music-player seek bar was not instantly understandable.
 - The text next to the flight chart was unnecessary. The planes alone were enough to understand the point.
+- The flight chart and the visa waiting chart take up too much space as two separate frames; they could be combined (P3).
+- On the time-together timeline, the blank areas were confusing. P3 suggested labeling sleep and work for both rows (me in the U.S. and my parents in India) and connecting the overlapping free time with dotted orange lines.
+- On the seek bar, P3 suggested flipping the colors so orange marks the weeks already played rather than the weeks ahead, and showing the player in "playing" mode instead of paused, so it looks more like a song that is playing.
 
 **What questions came up?**
-- No specific questions were raised beyond the confusion about how to read the seek bar.
+- P3 asked why the "call while you cook" card shows a photo of a woman, and how the image relates to the reader.
 
 **What new inspirations arose?**
 - Bring Canada back into the flight chart as a comparison, using a car symbol instead of planes, to show how much easier it is to get home when home is a drive away.
 
 ### Patterns so far
 
-Both participants are international students in their 20s, part of the story's primary audience. The topic and the animations landed well: participants hadn't thought about this before and found it an interesting story, so the core idea and the Shorthand format are worth keeping. The improvements point in one direction: the visuals should explain themselves with less text, and the most important chart, the seek bar, needs to be readable at first glance.
+**Where participants agreed:** participants responded well to the topic and the storytelling, and the Shorthand animations stood out, especially "The Space Between Us." All three also pointed to the same weakness: the charts should explain themselves faster. The seek bar came up in every round of feedback, and so did the flight section, as either too wordy or too spread out.
+
+**Where participants differed:** the first two interviews mainly suggested removing text, while P3 suggested adding labels to the timeline (sleep and work) so no part of the chart is left blank. Together these point to a balance: fewer sentences around the charts, but clear labels inside them.
 
 ## 6. Changes planned for Part III
-
 | Finding | Planned change | Reason |
 |---|---|---|
-| The seek bar is not instantly understandable | Add a short line above it explaining how to read it (for example, "Each bar is every week I'll spend with my mom; orange is what's still ahead"), and test the revised version with the next participants | The hook is the most important chart, so readers need to get it within seconds |
-| The text beside the flight chart is unnecessary | Remove the supporting text and let the planes carry the message, keeping only the title and source | Less text makes the chart faster to read |
-| Suggestion to include Canada with a car symbol | Add Canada back as a comparison row, using car icons (about 3.9 entries a year for Canadian H-1B workers, DHS FY2022) | A car makes the contrast instant: Canadians can drive home, while workers from India need a long flight and often a visa appointment |
-
+| The seek bar is not instantly understandable (all three interviews) | Flip the colors so orange shows the weeks already played and gray the weeks ahead, switch the button to "playing" mode (pause icon), and make it look more like a song in progress, for example with an elapsed and remaining time counter | Matches how real music players look, so readers recognize it immediately |
+| The text beside the flight chart is unnecessary (first two interviews) | Remove the supporting text and let the icons carry the message, keeping only the title and source | Less text makes the chart faster to read |
+| Suggestion to include Canada with a car symbol (first two interviews) | Add Canada back as a comparison row with car icons (about 3.9 entries a year for Canadian H-1B workers, DHS FY2022) | The car makes the contrast instant: home is a drive away for Canadians but a long flight, and often a visa appointment, for workers from India |
+| The flight and visa waiting charts waste space as separate frames (P3) | Combine trips and appointment waits into one visual in a single frame | Tells the "why only one visit a year" point in one glance and shortens the section |
+| Blank areas on the time-together timeline are confusing (P3) | Label sleep and work for both me and my parents, and connect the overlapping free time with dotted orange lines | Every part of the day is explained, and the shared hours stand out |
+| Unclear why the cooking card shows a woman (P3) | Replace the stock photo with my own photo of cooking while on a call, or add a caption explaining the image | The image should show the action the card asks readers to take |
 ## Sources
 
 Data sources are listed in the References section of the Shorthand story and on the [Part I page](final-project-part-one.md#4-the-data).
